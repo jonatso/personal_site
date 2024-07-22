@@ -1,7 +1,7 @@
-baseURL = "https://jonatso.github.io/"
+baseURL = "https://jonatansolheim.no/"
 author = "Jonatan Solheim"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
-paginate = 3
+paginate = 5
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -16,12 +16,11 @@ title = "Jonatan Solheim"
 [params]
 color = 'linen'
 
-# twitter = 'nanxiaobei'
 github = 'jonatso'
 linkedin = 'solheimjonatan'
 
 name = "Hi, I'm Jonatan!"
-bio = "I'm currently studying Computer Science at NTNU, planning to finishing my masters degree in 2025. Interested in web development, computer architecture, music production and robiks cubes."
+bio = "I'm currently studying Computer Science at NTNU, planning to finishing my masters degree in 2025. Interested in web development, computer architecture, music production and rubik's cubes. On this page, you will find information about my projects, music and cubing."
 avatar = 'tilingen@gmail.com'
 
 monoDarkIcon = true # show monochrome dark mode icon
@@ -37,22 +36,27 @@ unsafe = true
 #    lineNos = true
 
 [menu]
+# menus = [
+#     { identifier = "programming", name = "Programming", url = "/programming/", weight = 10 },
+#     { identifier = "cubing", name = "Cubing", url = "/cubing/", weight = 10 },
+#     { identifier = "music", name = "Music", url = "/music/", weight = 10 },
+# ]
 
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 10
 [[menu.main]]
 identifier = "programming"
 name = "Programming"
 url = "/programming/"
 weight = 10
 [[menu.main]]
+identifier = "cubing"
+name = "Cubing"
+url = "/cubing/"
+weight = 20
+[[menu.main]]
 identifier = "music"
 name = "Music"
 url = "/music/"
-weight = 10
+weight = 30
 
 [taxonomies]
 category = "categories"

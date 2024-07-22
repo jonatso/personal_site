@@ -1,6 +1,6 @@
 +++
-aliases = ["posts", "articles", "blog", "showcase", "docs"]
+aliases = ["music", "songs", "albums", "artists"]
 title = "Music"
 author = "jonatan"
-tags = ["index"]
+tags = ["music"]
 +++

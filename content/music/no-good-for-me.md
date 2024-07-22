@@ -8,6 +8,6 @@ tags = [
 ]
 +++
 
-Made this for Kucka's remix competition. I didn't win, but I had a lot of fun making it. I think it's a good track, and I'm proud of it. I hope you enjoy it too!
+KUČKA had a remix competition for her track "No Good For Me", and I decided to remix it even though I first heard the song after the deadline. At the time I was heavily inspired by more laidback house music, and also by the track "One night in Bangkok" from the musical Chess. The chorus of "One night in Bangkok" has an interesting effect where the reverb of some of the instruments disappears on parts of the chorus, which I also incorporated in this remix. I think it fitted quite well together with the ring modulation and moving low pass filter of the main synths. 🤠
 
 {{< soundcloud-track 1312753192 >}}
