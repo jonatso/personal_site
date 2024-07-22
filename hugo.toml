@@ -1,6 +1,5 @@
-baseURL = "https://hugo-paper.vercel.app/"
-# title = "Hugo Themes"
-author = "Steve Francia"
+baseURL = "https://jonatso.github.io/"
+author = "Jonatan Solheim"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 paginate = 3
 languageCode = "en"
