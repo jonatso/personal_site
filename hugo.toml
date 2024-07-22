@@ -24,6 +24,9 @@ linkedin = 'solheimjonatan'
 name = "Hi, I'm Jonatan!"
 bio = "I'm currently studying Computer Science at NTNU, planning to finishing my masters degree in 2025. Interested in web development, computer architecture, music production and robiks cubes."
 avatar = 'tilingen@gmail.com'
+
+monoDarkIcon = true # show monochrome dark mode icon
+
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
@@ -42,39 +45,17 @@ name = "About"
 url = "/about/"
 weight = 10
 [[menu.main]]
-identifier = "contact"
-name = "Contact"
-url = "/contact/"
+identifier = "programming"
+name = "Programming"
+url = "/programming/"
+weight = 10
+[[menu.main]]
+identifier = "music"
+name = "Music"
+url = "/music/"
 weight = 10
 
 [taxonomies]
 category = "categories"
 tag = "tags"
 series = "series"
-
-[privacy]
-
-[privacy.vimeo]
-disabled = false
-simple = true
-
-[privacy.twitter]
-disabled = false
-enableDNT = true
-simple = true
-
-[privacy.instagram]
-disabled = false
-simple = true
-
-[privacy.youtube]
-disabled = false
-privacyEnhanced = true
-
-[services]
-
-[services.instagram]
-disableInlineCSS = true
-
-[services.twitter]
-disableInlineCSS = true
